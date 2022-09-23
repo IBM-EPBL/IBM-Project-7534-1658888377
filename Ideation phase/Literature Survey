@@ -1,0 +1,15 @@
+Literature Survey
+
+        "Flexible, high performance convolutional neural networks for image classification" in 
+        Twenty-second International Joint Conference on Artificial Intelligence, 2011 by 
+        D.C.Ciresan, U.Meier, J.Masci, L.M.Gambardella, and J.Schmidhuber.
+   
+   It is pretty challenging to get a good performance as more parameters are needed for the 
+   large scale neural network. Many researchers are trying to increase the accuracy with less 
+   error in CNN.
+   
+   In another research, they have shown that deep nets perform better when they are tarined 
+   by simple back-propagation. Their architecture results in the lowest error rate on MNIST compared 
+   to NORB and CIFAR10.
+        
+        
