@@ -8,7 +8,7 @@ from keras.models import load_model
 from keras.preprocessing import image
 from flask import send_from_directory
 
-UPLOAD_FOLDER = 'C:/Users/jeyay/OneDrive/Desktop/Final Deliverables/Final code/app/uploads'
+UPLOAD_FOLDER = 'C:/Users/akilesh/OneDrive/Desktop/Final/app/uploads'
 
 
 app = Flask(__name__)
